@@ -1,0 +1,4 @@
+../Src/debug.c:52:6:debug_init	8	static
+../Src/debug.c:75:13:HAL_UART_Msp_Init	40	static
+../Src/debug.c:111:6:debug_chr	16	static
+../Src/debug.c:123:6:USART1_IRQHandler	8	static

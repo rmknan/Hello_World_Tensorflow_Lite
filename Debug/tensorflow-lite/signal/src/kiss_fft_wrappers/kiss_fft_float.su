@@ -1,0 +1,15 @@
+/home/rmknan/STM32CubeIDE/workspace_1.15.0/Hello_World_TF/tensorflow-lite/third_party/kissfft/kiss_fft.c:21:13:void kiss_fft_float::kf_bfly2(kiss_fft_cpx*, size_t, kiss_fft_cfg, int)	40	static
+/home/rmknan/STM32CubeIDE/workspace_1.15.0/Hello_World_TF/tensorflow-lite/third_party/kissfft/kiss_fft.c:44:13:void kiss_fft_float::kf_bfly4(kiss_fft_cpx*, size_t, kiss_fft_cfg, size_t)	96	static
+/home/rmknan/STM32CubeIDE/workspace_1.15.0/Hello_World_TF/tensorflow-lite/third_party/kissfft/kiss_fft.c:92:13:void kiss_fft_float::kf_bfly3(kiss_fft_cpx*, size_t, kiss_fft_cfg, size_t)	88	static
+/home/rmknan/STM32CubeIDE/workspace_1.15.0/Hello_World_TF/tensorflow-lite/third_party/kissfft/kiss_fft.c:136:13:void kiss_fft_float::kf_bfly5(kiss_fft_cpx*, size_t, kiss_fft_cfg, int)	176	static
+/home/rmknan/STM32CubeIDE/workspace_1.15.0/Hello_World_TF/tensorflow-lite/third_party/kissfft/kiss_fft.c:198:13:void kiss_fft_float::kf_bfly_generic(kiss_fft_cpx*, size_t, kiss_fft_cfg, int, int)	64	static
+/home/rmknan/STM32CubeIDE/workspace_1.15.0/Hello_World_TF/tensorflow-lite/third_party/kissfft/kiss_fft.c:238:6:void kiss_fft_float::kf_work(kiss_fft_cpx*, const kiss_fft_cpx*, size_t, int, int*, kiss_fft_cfg)	48	static
+/home/rmknan/STM32CubeIDE/workspace_1.15.0/Hello_World_TF/tensorflow-lite/third_party/kissfft/kiss_fft.c:309:6:void kiss_fft_float::kf_factor(int, int*)	32	static
+/home/rmknan/STM32CubeIDE/workspace_1.15.0/Hello_World_TF/tensorflow-lite/third_party/kissfft/kiss_fft.c:339:14:kiss_fft_float::kiss_fft_state* kiss_fft_float::kiss_fft_alloc(int, int, void*, size_t*)	80	static
+/home/rmknan/STM32CubeIDE/workspace_1.15.0/Hello_World_TF/tensorflow-lite/third_party/kissfft/kiss_fft.c:371:6:void kiss_fft_float::kiss_fft_stride(kiss_fft_cfg, const kiss_fft_cpx*, kiss_fft_cpx*, int)	40	static
+/home/rmknan/STM32CubeIDE/workspace_1.15.0/Hello_World_TF/tensorflow-lite/third_party/kissfft/kiss_fft.c:385:6:void kiss_fft_float::kiss_fft(kiss_fft_cfg, const kiss_fft_cpx*, kiss_fft_cpx*)	24	static
+/home/rmknan/STM32CubeIDE/workspace_1.15.0/Hello_World_TF/tensorflow-lite/third_party/kissfft/kiss_fft.c:391:6:void kiss_fft_float::kiss_fft_cleanup()	4	static
+/home/rmknan/STM32CubeIDE/workspace_1.15.0/Hello_World_TF/tensorflow-lite/third_party/kissfft/kiss_fft.c:396:5:int kiss_fft_float::kiss_fft_next_fast_size(int)	24	static
+/home/rmknan/STM32CubeIDE/workspace_1.15.0/Hello_World_TF/tensorflow-lite/third_party/kissfft/tools/kiss_fftr.c:27:15:kiss_fft_float::kiss_fftr_state* kiss_fft_float::kiss_fftr_alloc(int, int, void*, size_t*)	72	static
+/home/rmknan/STM32CubeIDE/workspace_1.15.0/Hello_World_TF/tensorflow-lite/third_party/kissfft/tools/kiss_fftr.c:67:6:void kiss_fft_float::kiss_fftr(kiss_fftr_cfg, const float*, kiss_fft_cpx*)	80	static
+/home/rmknan/STM32CubeIDE/workspace_1.15.0/Hello_World_TF/tensorflow-lite/third_party/kissfft/tools/kiss_fftr.c:123:6:void kiss_fft_float::kiss_fftri(kiss_fftr_cfg, const kiss_fft_cpx*, float*)	72	static

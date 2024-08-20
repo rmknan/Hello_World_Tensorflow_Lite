@@ -1,0 +1,4 @@
+../Src/debug.c:52:6:debug_init	2
+../Src/debug.c:75:13:HAL_UART_Msp_Init	1
+../Src/debug.c:111:6:debug_chr	4
+../Src/debug.c:123:6:USART1_IRQHandler	1

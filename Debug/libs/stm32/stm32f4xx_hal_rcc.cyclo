@@ -1,0 +1,14 @@
+../libs/stm32/stm32f4xx_hal_rcc.c:203:26:HAL_RCC_DeInit	1
+../libs/stm32/stm32f4xx_hal_rcc.c:222:26:HAL_RCC_OscConfig	60
+../libs/stm32/stm32f4xx_hal_rcc.c:583:19:HAL_RCC_ClockConfig	20
+../libs/stm32/stm32f4xx_hal_rcc.c:767:6:HAL_RCC_MCOConfig	2
+../libs/stm32/stm32f4xx_hal_rcc.c:833:6:HAL_RCC_EnableCSS	1
+../libs/stm32/stm32f4xx_hal_rcc.c:842:6:HAL_RCC_DisableCSS	1
+../libs/stm32/stm32f4xx_hal_rcc.c:877:17:HAL_RCC_GetSysClockFreq	6
+../libs/stm32/stm32f4xx_hal_rcc.c:933:10:HAL_RCC_GetHCLKFreq	1
+../libs/stm32/stm32f4xx_hal_rcc.c:944:10:HAL_RCC_GetPCLK1Freq	1
+../libs/stm32/stm32f4xx_hal_rcc.c:956:10:HAL_RCC_GetPCLK2Freq	1
+../libs/stm32/stm32f4xx_hal_rcc.c:969:13:HAL_RCC_GetOscConfig	8
+../libs/stm32/stm32f4xx_hal_rcc.c:1048:6:HAL_RCC_GetClockConfig	1
+../libs/stm32/stm32f4xx_hal_rcc.c:1074:6:HAL_RCC_NMI_IRQHandler	2
+../libs/stm32/stm32f4xx_hal_rcc.c:1091:13:HAL_RCC_CSSCallback	1
