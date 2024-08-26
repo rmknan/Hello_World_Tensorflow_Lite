@@ -202,13 +202,6 @@ void handle_output(tflite::ErrorReporter* error_reporter, float x_value, float y
 
 /* End of main code */
 
-/* print the results on the screen */
-/* copy the image to the input tensor */
-/* update the pencil color in the menu */
-/* rgb to gray scale using CIE formula */
-/* resize the image in gray color using bilinear method */
-/* Save the working window where was drawn the number */
-
 void LCD_Init(void)
 {
     // LCD Initialization
@@ -291,7 +284,7 @@ void LCD_Output(float x_value, float y_value)
 
 }
 
-// The commented section is additional ways of representing the sine wave on the LCD display. One can choose one of the three LCD_OUTPUT functions
+/* The commented section is additional ways of representing the sine wave on the LCD display. One can choose one of the three LCD_OUTPUT functions */
 
 ///* Sine wave horizontally */
 //void LCD_Output(float x_value, float y_value)
